@@ -4,6 +4,7 @@ longform:
   title: Calantra
   workflow: Default Workflow
   sceneFolder: /
-  scenes: []
+  scenes:
+    - New
   ignoredFiles: []
 ---
